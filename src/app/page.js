@@ -4,7 +4,7 @@ import Link from "next/link";
 import Navbar from "@/component/navbar/Navbar";
 import Footer from "@/component/footer/Footer";
 import Featured from "@/component/featured/Featured";
-import CategoryList from "@/component/categoryList/categoryList";
+import CategoryList from "@/component/CategoryList/CategoryList";
 import CardList from "@/component/cardList/CardList";
 import Menu from "@/component/Menu/Menu";
 import AuthLinks from "@/component/authLinks/AuthLinks";
