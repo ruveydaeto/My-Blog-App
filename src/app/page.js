@@ -9,6 +9,7 @@ import CardList from "@/component/cardList/CardList";
 import Menu from "@/component/Menu/Menu";
 import AuthLinks from "@/component/authLinks/AuthLinks";
 import ThemeToggle from "@/component/themeToggle/ThemeToggle";
+import Comments from "@/component/comments/Comments";
 
 export default function Home() {
   return (
@@ -19,7 +20,9 @@ export default function Home() {
 
   <CardList />
   <Menu />
+
 </div>
+
   </div>
   );
 }
